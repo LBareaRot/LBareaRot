@@ -1,6 +1,6 @@
-- 👋 Hello, I am @LBareaRot programmer and graphic designer.
+- 👋 Hello, I am @LBareaRot programmer and graphic designer. I speak Spanish and English.
 - 👀 I am interested in gaining experience programming, so I am looking for internships as a programmer or a company that allows me to be by your side.
-- 🌱 I am currently learning Java, Net ....
+- 🌱 I am currently learning Angular,Java, Net ....
 - 💞️ I am looking to collaborate on any project according to my knowledge.
 - 📫 You can send me an MD or contact me at my email "Lorebarea96@gmail.com"
 
